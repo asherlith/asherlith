@@ -21,8 +21,9 @@ Any help, comment and criticism is appreciated <3
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Instagram-9cf?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Orange Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Orange Badge"/>
 </div>
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="40" height="40"/>&nbsp;
