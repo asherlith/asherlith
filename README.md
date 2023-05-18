@@ -14,3 +14,5 @@ Any help, comment and criticism is appreciated <3
 
 
 ![pixel-art](https://github.com/asherlith/readme/assets/98652187/b0296956-a975-46e2-a8ba-c6012f41685f)
+
+### :woman_technologist: About Me :
