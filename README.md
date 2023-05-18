@@ -1,4 +1,4 @@
-# readme
+# read me
 You can call me Asher, I'm a CE student currently but I'm also trying to gain more professional experience.
 My main interest is back-end development so I'm trying to better my underestanding and experience at technologies most used with back-end development(such as docker, redis, celery, swagger and so on and so forth).
 
