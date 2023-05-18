@@ -15,6 +15,15 @@ Any help, comment and criticism is appreciated <3
 ---
 
 ![pixel-art](https://github.com/asherlith/readme/assets/98652187/b0296956-a975-46e2-a8ba-c6012f41685f)
+
+---
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-9cf?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Orange Badge"/>
+</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
@@ -27,7 +36,5 @@ Any help, comment and criticism is appreciated <3
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="40" height="40"/>
-
-
 
 </div>
